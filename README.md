@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with expertise i
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:af1nzr07.com)
+- **Email**: [af1nzr07@gmail.com](mailto:af1nzr07.com)
 - **LinkedIn**: [linkedin.com/in/af1nzr](https://linkedin.com/in/af1nzr)
 
 ## 🔗 Tools & Technologies
