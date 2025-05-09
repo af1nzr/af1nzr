@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with expertise i
 ## 📫 How to Reach Me
 
 - **Email**: [af1ncn07@gmail.com](mailto:af1nzr07.com)
-- **LinkedIn**: [linkedin.com/in/af1nzr](https://linkedin.com/in/af1nzr)
+- **LinkedIn**: [https://www.linkedin.com/in/muhammed-afrin/](https://www.linkedin.com/in/muhammed-afrin/)
 
 ## 🔗 Tools & Technologies
 
