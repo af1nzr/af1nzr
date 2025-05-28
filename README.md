@@ -1,45 +1,49 @@
 <div align="center">
   
-# AF1NZR | Data Analyst & Power BI Expert | Specialized in Sales
+# AF1NZR | DevOps Engineer | AWS | CI/CD | Cloud Infrastructure
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with expertise in **Power BI**, **DAX**, **Power Query**, **Data Modeling**, and I specialize in **Sales** analytics. My work revolves around transforming complex data into actionable insights to drive business decisions, particularly in the sales domain.
+Welcome to my GitHub profile! I'm a results-driven **DevOps Engineer** specializing in **AWS cloud infrastructure**, **CI/CD automation**, **containerization**, and **infrastructure as code (IaC)**. My work is focused on building scalable, secure, and highly available systems that streamline software delivery and enhance operational efficiency.
 
 ![snake gif](https://github.com/af1nzr/af1nzr/blob/output/github-snake-dark.svg)
 
 
-## 🔧 Skills & Expertise
+## 🛠️ Skills & Expertise
 
-- **Power BI**: Expert in creating interactive dashboards, reports, and data visualizations.
-- **DAX**: Skilled in writing optimized DAX formulas for calculated columns, measures, and time intelligence.
-- **Power Query**: Proficient in data cleaning, transformation, and automation with Power Query.
-- **Data Modeling**: Experienced in designing and building efficient data models for scalability and performance.
-- **Sales Analytics**: Specialized in using data to analyze sales trends, track KPIs, and forecast performance.
-- **Data Analysis**: Strong analytical skills to interpret large datasets and derive meaningful insights.
-- **SQL**: Experienced in querying and managing databases using SQL.
-- **Excel**: Advanced Excel skills for data analysis and visualization.
+- **AWS Cloud**: Deep experience with EC2, S3, IAM, VPC, RDS, Route 53, CloudWatch, Lambda, and more.
+- **CI/CD Pipelines**: Automated deployments using GitHub Actions, AWS CodePipeline, Jenkins, and GitLab CI.
+- **Infrastructure as Code (IaC)**: Proficient in Terraform and AWS CloudFormation to define and manage infrastructure.
+- **Docker & Kubernetes**: Containerization, orchestration, and deployment of microservices.
+- **Linux & Shell Scripting**: Strong command-line skills for server automation and task scripting.
+- **Monitoring & Logging**: Integrated solutions with Prometheus, Grafana, ELK stack, and CloudWatch.
+- **Version Control**: Git and GitHub for collaborative development and change tracking.
+- **Networking**: Solid understanding of VPCs, subnets, route tables, NAT gateways, and security groups.
 
-## 💼 Current Focus
+## 🚀 Current Focus
 
-- Enhancing my expertise in advanced Power BI features and optimization techniques.
-- Developing data models that integrate seamlessly with business intelligence tools.
-- Working on sales data projects to help businesses make informed decisions and boost performance.
+- Building secure, automated, and cost-effective infrastructure in AWS.
+- Designing CI/CD pipelines that support rapid and safe software releases.
+- Integrating container orchestration (EKS/Kubernetes) with DevOps workflows.
+- Enhancing observability and incident response using modern logging/monitoring tools.
 
 ## 📫 How to Reach Me
 
-- **Email**: [af1ncn07@gmail.com](mailto:af1nzr07.com)
+- **Email**: [af1ncn07@gmail.com](mailto:af1ncn07@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/muhammed-afrin/](https://www.linkedin.com/in/muhammed-afrin/)
 
-## 🔗 Tools & Technologies
+## 🧰 Tools & Technologies
 
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-ffaa00?style=for-the-badge&logo=powerbi)
-- ![DAX](https://img.shields.io/badge/-DAX-00B5E2?style=for-the-badge&logo=microsoft)
-- ![Power Query](https://img.shields.io/badge/-Power%20Query-0078D4?style=for-the-badge&logo=microsoft)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql)
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+- ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
+- ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws)
 
-## 😄 Fun Fact
+## ⚡ Fun Fact
 
-When I'm not analyzing data, I enjoy exploring data-driven games, leveraging my analytical skills to enhance my experience.
+When I’m not automating deployments, you’ll find me setting up homelabs, breaking things in test environments, and reading about cloud architecture patterns.
 
 </div>
 
