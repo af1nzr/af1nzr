@@ -1,36 +1,36 @@
 <div align="center">
   
-# AF1NZR | DevOps Engineer | AWS | CI/CD | Cloud Infrastructure
+# AF1NZR | Cloud Engineer | DevOps | AWS | Infrastructure Automation
 
-Welcome to my GitHub profile! I'm a results-driven **DevOps Engineer** specializing in **AWS cloud infrastructure**, **CI/CD automation**, **containerization**, and **infrastructure as code (IaC)**. My work is focused on building scalable, secure, and highly available systems that streamline software delivery and enhance operational efficiency.
+Welcome to my GitHub profile! I'm a passionate **Cloud Engineer** with strong **DevOps expertise**, specializing in **AWS architecture**, **infrastructure automation**, **CI/CD pipelines**, and **cloud-native solutions**. I focus on delivering scalable, secure, and efficient cloud environments that accelerate development and simplify operations.
 
 ![snake gif](https://github.com/af1nzr/af1nzr/blob/output/github-snake-dark.svg)
 
 
-## 🛠️ Skills & Expertise
+## ☁️ Skills & Expertise
 
-- **AWS Cloud**: Deep experience with EC2, S3, IAM, VPC, RDS, Route 53, CloudWatch, Lambda, and more.
-- **CI/CD Pipelines**: Automated deployments using GitHub Actions, AWS CodePipeline, Jenkins, and GitLab CI.
-- **Infrastructure as Code (IaC)**: Proficient in Terraform and AWS CloudFormation to define and manage infrastructure.
-- **Docker & Kubernetes**: Containerization, orchestration, and deployment of microservices.
-- **Linux & Shell Scripting**: Strong command-line skills for server automation and task scripting.
-- **Monitoring & Logging**: Integrated solutions with Prometheus, Grafana, ELK stack, and CloudWatch.
-- **Version Control**: Git and GitHub for collaborative development and change tracking.
-- **Networking**: Solid understanding of VPCs, subnets, route tables, NAT gateways, and security groups.
+- **Cloud Platforms**: Deep experience in AWS (EC2, S3, IAM, RDS, Lambda, VPC, CloudWatch, Route 53).
+- **Infrastructure as Code (IaC)**: Proficient with Terraform and AWS CloudFormation for provisioning.
+- **CI/CD**: Pipeline automation using GitHub Actions, Jenkins, and GitLab CI/CD.
+- **Containers & Orchestration**: Docker for packaging and Kubernetes/EKS for orchestration.
+- **System Administration**: Linux, Bash scripting, and cloud server management.
+- **Monitoring & Observability**: Cloud-native monitoring with Prometheus, Grafana, CloudWatch, and ELK Stack.
+- **Networking**: Subnets, route tables, NAT gateways, security groups, and VPC design.
+- **Version Control**: Git and GitHub for collaborative development and automation.
 
 ## 🚀 Current Focus
 
-- Building secure, automated, and cost-effective infrastructure in AWS.
-- Designing CI/CD pipelines that support rapid and safe software releases.
-- Integrating container orchestration (EKS/Kubernetes) with DevOps workflows.
-- Enhancing observability and incident response using modern logging/monitoring tools.
+- Architecting resilient and scalable infrastructure on AWS.
+- Automating deployments and infrastructure with CI/CD + IaC.
+- Implementing cost-optimized cloud solutions and performance monitoring.
+- Embracing cloud-native technologies and DevOps best practices.
 
 ## 📫 How to Reach Me
 
 - **Email**: [af1ncn07@gmail.com](mailto:af1ncn07@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/muhammed-afrin/](https://www.linkedin.com/in/muhammed-afrin/)
 
-## 🧰 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform)
@@ -43,11 +43,6 @@ Welcome to my GitHub profile! I'm a results-driven **DevOps Engineer** specializ
 
 ## ⚡ Fun Fact
 
-When I’m not automating deployments, you’ll find me setting up homelabs, breaking things in test environments, and reading about cloud architecture patterns.
+Outside of deploying to the cloud, I love spinning up test labs, automating boring tasks, and exploring new DevOps and cloud-native trends.
 
 </div>
-
-
-
-
-
