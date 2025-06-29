@@ -1,29 +1,29 @@
 <div align="center">
   
-# AF1NZR | Cloud Engineer | DevOps | AWS | Infrastructure Automation
+# AF1NZR | Cloud Engineer | DevOps | Azure | Infrastructure Automation
 
-Welcome to my GitHub profile! I'm a passionate **Cloud Engineer** with strong **DevOps expertise**, specializing in **AWS architecture**, **infrastructure automation**, **CI/CD pipelines**, and **cloud-native solutions**. I focus on delivering scalable, secure, and efficient cloud environments that accelerate development and simplify operations.
+Welcome to my GitHub profile! I'm a passionate **Cloud Engineer** with strong **DevOps expertise**, specializing in **Azure architecture**, **infrastructure automation**, **CI/CD pipelines**, and **cloud-native solutions**. I focus on delivering scalable, secure, and efficient cloud environments that accelerate development and simplify operations.
 
 ![snake gif](https://github.com/af1nzr/af1nzr/blob/output/github-snake-dark.svg)
 
 
 ## ☁️ Skills & Expertise
 
-- **Cloud Platforms**: Deep experience in AWS (EC2, S3, IAM, RDS, Lambda, VPC, CloudWatch, Route 53).
-- **Infrastructure as Code (IaC)**: Proficient with Terraform and AWS CloudFormation for provisioning.
-- **CI/CD**: Pipeline automation using GitHub Actions, Jenkins, and GitLab CI/CD.
-- **Containers & Orchestration**: Docker for packaging and Kubernetes/EKS for orchestration.
-- **System Administration**: Linux, Bash scripting, and cloud server management.
-- **Monitoring & Observability**: Cloud-native monitoring with Prometheus, Grafana, CloudWatch, and ELK Stack.
-- **Networking**: Subnets, route tables, NAT gateways, security groups, and VPC design.
-- **Version Control**: Git and GitHub for collaborative development and automation.
+- **Cloud Platforms**: Deep experience in Azure (AKS, Azure VMs, Blob Storage, Azure AD, Cosmos DB, Functions, VNet, Monitor, DNS Zones)
+- **Infrastructure as Code (IaC)**: Proficient with Terraform and Azure Bicep/ARM templates
+- **CI/CD**: Pipeline automation using GitHub Actions, Azure DevOps Pipelines
+- **Containers & Orchestration**: Docker for packaging and Kubernetes/AKS for orchestration
+- **System Administration**: Windows/Linux, PowerShell/Bash scripting, and cloud server management
+- **Monitoring & Observability**: Azure Monitor, Log Analytics, Application Insights, and Grafana
+- **Networking**: VNets, NSGs, Load Balancers, Application Gateways, and Azure Firewall
+- **Version Control**: Git and GitHub for collaborative development and automation
 
 ## 🚀 Current Focus
 
-- Architecting resilient and scalable infrastructure on AWS.
-- Automating deployments and infrastructure with CI/CD + IaC.
-- Implementing cost-optimized cloud solutions and performance monitoring.
-- Embracing cloud-native technologies and DevOps best practices.
+- Architecting resilient and scalable infrastructure on Microsoft Azure
+- Automating deployments and infrastructure with CI/CD + IaC
+- Implementing cost-optimized cloud solutions with Azure Cost Management
+- Building secure, compliant environments with Azure Policy and Blueprints
 
 ## 📫 How to Reach Me
 
@@ -32,17 +32,17 @@ Welcome to my GitHub profile! I'm a passionate **Cloud Engineer** with strong **
 
 ## 🛠️ Tools & Technologies
 
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
-- ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws)
+- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops)
+- ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell)
+- ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana)
 
 ## ⚡ Fun Fact
 
-Outside of deploying to the cloud, I love spinning up test labs, automating boring tasks, and exploring new DevOps and cloud-native trends.
+Outside of deploying to Azure, I love experimenting with hybrid cloud scenarios, automating governance with Azure Policy, and optimizing AKS clusters for performance.
 
 </div>
