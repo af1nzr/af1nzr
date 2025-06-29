@@ -1,6 +1,6 @@
 <div align="center">
   
-# AF1NZR | Cloud Engineer | DevOps | Azure | Infrastructure Automation
+# AF1NZR | DevOps Engineer | Azure | Infrastructure Automation
 
 Welcome to my GitHub profile! I'm a passionate **Cloud Engineer** with strong **DevOps expertise**, specializing in **Azure architecture**, **infrastructure automation**, **CI/CD pipelines**, and **cloud-native solutions**. I focus on delivering scalable, secure, and efficient cloud environments that accelerate development and simplify operations.
 
